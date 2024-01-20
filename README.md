@@ -22,6 +22,6 @@ This model is currently trained on human faces, and much more data needs to be p
 📈 Performance Metrics: Employs Scikit-learn for detailed evaluation metrics and analysis.
 
 ## Roadmap (TODO)
-- [] Adding more training data for a properly distributed split
-- [] Hosting training data on LFS
-- [] Expanding classification beyond "happy" and "sad"
+- [ ] Adding more training data for a properly distributed split
+- [ ] Hosting training data on LFS
+- [ ] Expanding classification beyond "happy" and "sad"
