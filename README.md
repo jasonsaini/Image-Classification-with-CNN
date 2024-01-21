@@ -5,11 +5,9 @@
 ## Introduction
 
 CNN Image Classifier is a tool for image classification via Convolutional Neural Networks (CNNs). 
-Developed using Python & deep learning libraries, this project aims to provide accurate and efficient image classification. 
+Developed using Python & deep learning libraries (OpenCV, TensorFlow, Keras).
 
-Tested across various datasets pulled from Google Images search, it demonstrates robust performance in distinguishing whether an image is "happy" or "sad".
-
-This model is currently trained on human faces, and much more data needs to be pulled in as a result.
+This image classifier uses a convolutional neural network (CNN) & deep learning for efficient classification. It effectively distinguishes between "happy" & "sad" images, performing on datasets sourced from Google Images.
 
 🚧 Please Note: This project is a work in progress and under active development. 🚧
 
