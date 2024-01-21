@@ -14,7 +14,7 @@ This image classifier uses a convolutional neural network (CNN) & deep learning 
 
 ## Key Features
 
-- 🌐 Advanced CNN Models: Built using TensorFlow and Keras for cutting-edge neural network architectures.
+- 🌐 CNN Models: Built using TensorFlow and Keras for cutting-edge neural network architectures.
 - 🖼️ Comprehensive Image Processing: Integrated with OpenCV for advanced image manipulation and preprocessing.
 - 📊 In-Depth Data Visualization: Utilizes Matplotlib for insightful data analysis and model performance visualization.
 - 📈 Performance Metrics: Employs Scikit-learn for detailed evaluation metrics and analysis.
