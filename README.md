@@ -1,6 +1,6 @@
 # 🖼️ CNN Image Classifier
 
-![image](https://github.com/jasonsaini/Image-Classification-with-CNN/assets/69808698/dd00903e-0f9d-43b0-94d3-9c7abdb0fa50)
+![image](https://github.com/jasonsaini/Image-Classification-with-CNN/assets/69808698/7adde0ca-e80b-4669-82d0-435668372b09)
 
 ## Introduction
 
